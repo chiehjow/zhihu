@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 18 14:29:47 2016
 
-@author: Sandman
+@author: Chieh Jow
 """
 
 from bs4 import BeautifulSoup as bsp
