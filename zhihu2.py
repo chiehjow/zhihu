@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 18 14:29:47 2016
 
-@author: Sandman
+@author: Chieh Jow
 """
 
 from bs4 import BeautifulSoup as bsp
@@ -797,7 +797,7 @@ def deep_search_sybil_users():
 #for i in range(3):
 #deep_search_sybil_users()
 #make_all_text()
-ouput_sybil_list()
+#ouput_sybil_list()
 
 
     
